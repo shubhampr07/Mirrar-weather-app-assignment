@@ -192,7 +192,7 @@ function App() {
 
             <ISTDateTime />
             <Link
-              href="https://github.com/Amin-Awinti"
+              href="https://github.com/shubhampr07/Mirrar-weather-app-assignment"
               target="_blank"
               underline="none"
               sx={{ display: 'flex' }}
