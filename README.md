@@ -9,3 +9,9 @@
 2. USER FRIENDLY (like if a user enters a city name that doesn't exist, there should be an appropriate error message it show no options.)
 
 # To run the project locally
+1. Clone this repo
+2. cd to the directory
+3. npm install
+4. npm start
+
+# Live Link - https://mirrar-weather-app-assignment.vercel.app/
